@@ -1,3 +1,6 @@
+22313539 이종헌
+https://github.com/Patrinia/4vsN-Battle-Simulator
+
 # 4 vs N 턴제 전투 시스템 밸런스 시뮬레이터 기획서
 
 ## 1.Business Purpose
